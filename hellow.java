@@ -1,8 +1,10 @@
-public class hellow
-{
-	public static void main(String[] args)
-	{
-	System.out.println("helllow java");
-	}
+public class Hellow{
+ 
+	public static void Main(String[] args) {
 	
-}
+		for(int i=0; i<10; i++){
+			System.out.print("Hello World");
+		}  
+	
+	} 
+} 
